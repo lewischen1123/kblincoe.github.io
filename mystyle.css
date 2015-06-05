@@ -64,10 +64,14 @@ div#publications bibs{
 }
 
 div#about {
-   width: 50%;
+   width: 85%;
    text-align: left;
    margin: 0 auto;
    font-family: 'Palatino Linotype';
+}
+
+div#about a{
+   color: #0000FF;
 }
 
 div#title {
